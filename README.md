@@ -1,4 +1,4 @@
-# LA High Holidays 🍎
+# [LA High Holidays](https://wuisabel-gif.github.io/high_holidays_5787/) 
 
 A simple directory for finding **Rosh Hashanah and Yom Kippur services, meals, and community events across Los Angeles**.
 
